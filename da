@@ -1,0 +1,31 @@
+[33mcommit 7715b9a3b7f33646df0c9fbe0fe88a18d60140e6[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Merge: c40043f 267836b
+Author: crimsondante <tranphuochai2816@gmail.com>
+Date:   Thu Dec 23 04:04:37 2021 +0700
+
+    Merge branch 'Nhanh2'
+    branchsa.
+
+[33mcommit 267836b93cc0ddd1ce68e7914615079dfdd8f201[m[33m ([m[1;31morigin/Nhanh2[m[33m, [m[1;32mNhanh2[m[33m)[m
+Author: crimsondante <tranphuochai2816@gmail.com>
+Date:   Thu Dec 23 04:03:27 2021 +0700
+
+     Thêm Thư mục category
+
+[33mcommit c40043f1629fe37e5b0ee3a36ba46f6a46a2eeac[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: crimsondante <tranphuochai2816@gmail.com>
+Date:   Thu Dec 23 03:59:38 2021 +0700
+
+    Thêm thư mục advertise
+
+[33mcommit 76e3e3bbb8ffe23e392aba51512e66845cf1a9f5[m
+Author: huynhlam19831983 <94092820+huynhlam19831983@users.noreply.github.com>
+Date:   Thu Dec 23 02:05:46 2021 +0700
+
+    Add files via upload
+
+[33mcommit 078a9b0f5f1cda578d404b68a9db122b210d5748[m
+Author: huynhlam19831983 <94092820+huynhlam19831983@users.noreply.github.com>
+Date:   Thu Dec 23 01:46:45 2021 +0700
+
+    Initial commit
